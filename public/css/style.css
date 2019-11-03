@@ -1,0 +1,13 @@
+#app-container {
+    width: 290px;
+}
+
+.card {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
+
+.card-body {
+    font-size: 1.35rem;
+}
